@@ -27,4 +27,4 @@ A Computer Science student specializing in Full-Stack Mobile Development and IoT
 
 ### Contact
 
-`darkscripts.dev@gmail.com` 
+`darkscripts.contact@gmail.com` 
