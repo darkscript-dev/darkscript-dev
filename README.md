@@ -23,7 +23,7 @@ A Computer Science student specializing in Full-Stack Mobile Development and IoT
 
 | Project | Link | Description | Technologies |
 | :--- | :--- | :--- | :--- |
-| **SmartSpend AI** | [**GitHub Repo**](https://github.com/darkscript-dev/SmartSpendAI) | An intelligent, offline-first expense tracker built with Modern Android standards, featuring on-device Machine Learning (OCR) for receipt scanning and live currency conversion via a remote API. | `Kotlin` `Jetpack Compose` `Room` `Hilt` `Retrofit` `ML Kit` |
+| **SmartSpend AI** | [**Project Overview**]([https://github.com/darkscript-dev/SmartSpendAI](https://github.com/darkscript-dev/SmartSpendAI-Project-Overview-)) | An intelligent, offline-first expense tracker built with Modern Android standards, featuring on-device Machine Learning (OCR) for receipt scanning and live currency conversion via a remote API. | `Kotlin` `Jetpack Compose` `Room` `Hilt` `Retrofit` `ML Kit` |
 | **Lyra** | [**Google Play Store**](https://play.google.com/store/apps/details?id=dev.darkscripts.lyra) | An ambient sound and focus application **published on the Google Play Store**, built with a clean, user-centric interface. | `Flutter` `Dart` `Android` |
 | **PodPal** | [**Project Overview**](https://github.com/darkscript-dev/PodPal-Project-Overview) | An intelligent, self-watering plant pod that leverages a dual-MCU architecture and Firebase backend for remote monitoring and AI-driven care. | `Flutter` `C++` `Firebase` `IoT` |
 
